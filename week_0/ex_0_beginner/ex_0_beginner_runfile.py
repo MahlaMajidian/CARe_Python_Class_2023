@@ -1,5 +1,5 @@
 import this
 
-print("\n"+"TYPE YOUR RESPONSE TO PROMPT 1 HERE")
+print("\n"+"My name is Mahla Majidian Eidgahi.Iam student in CARe program. My bachelor's degree is cellular and molecular biology. I want to have a vision about data scince.")
 
-print("\n"+"TYPE YOUR RESPONSE TO PROMPT 2 HERE")
+print("\n"+"I used computer for daily task.")
